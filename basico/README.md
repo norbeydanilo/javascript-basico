@@ -1,11 +1,11 @@
 # Ejercicios de JavaScript sintaxis básica
 
-## Ejercicios-01
+## [Ejercicios-01](https://github.com/norbeydanilo/javascript-basico/blob/main/basico/ejercicios-01.js)
 
 1. **Definir dos variables**: `nombre` y `edad`.
 2. **Imprimir las variables** por consola.
 
-## Ejercicios-02
+## [Ejercicios-02](https://github.com/norbeydanilo/javascript-basico/blob/main/basico/ejercicios-02.js)
 
 1. **Definir dos variables globales**: `nombre` y `apellido`.
 2. **Definir dos variables locales** en un bloque: `edad` y `comida`.
@@ -13,7 +13,7 @@
 4. Una vez entienda la diferencia entre `let` y `var`, responda la siguiente pregunta: 
     - ¿En qué casos resulta mejor usar `let` o `var` para definir variables?
 
-## Ejercicios-03
+## [Ejercicios-03](https://github.com/norbeydanilo/javascript-basico/blob/main/basico/ejercicios-03.js)
 
 1. **Definir tres constantes**:
     - El número de segundos en un minuto (60).
@@ -22,7 +22,7 @@
 2. **Utilizando el valor almacenado** en las constantes que creaste, imprime por consola el siguiente mensaje:
     - "Un minuto tiene 60 segundos, una hora tiene 60 minutos y un día tiene 24 horas"
 
-## Ejercicios-04
+## [Ejercicios-04](https://github.com/norbeydanilo/javascript-basico/blob/main/basico/ejercicios-04.js)
 
 1. **Definir variables** que guarden los siguientes datos:
     - Nombre.
@@ -33,7 +33,7 @@
 2. **Imprimir el siguiente mensaje**:
     - "Hola! Mi nombre es `nombre apellido` y tengo `edad` años, mi canción favorita es `cancion` y la respuesta es `true/false`"
 
-## Ejercicios-05
+## [Ejercicios-05](https://github.com/norbeydanilo/javascript-basico/blob/main/basico/ejercicios-05.js)
 
 1. **Dado tres números (a,b,c)** realice las siguientes operaciones e imprima el resultado:
     - `(a*b)/c`
