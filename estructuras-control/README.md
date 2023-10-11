@@ -1,6 +1,6 @@
 # Ejercicios de JavaScript estructuras de control (selección e iteración)
 
-## Ejercicios-01
+## [Ejercicios-01](https://github.com/norbeydanilo/javascript-basico/blob/main/estructuras-control/ejercicios-01.js)
 
 ### Selección-01
 
@@ -21,7 +21,7 @@
     - Se desea determinar cuál es descuento dado una cantidad de decenas que se van a comprar. 
     - Imprima también cuál es el valor de la compra si cada docena cuesta 60.000
 
-## Ejercicios-02
+## [Ejercicios-02](https://github.com/norbeydanilo/javascript-basico/blob/main/estructuras-control/ejercicios-02.js)
 
 ## Ciclos-01
 
