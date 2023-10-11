@@ -45,3 +45,10 @@ let i = 1
 for (i; i <= 10; i++) {
     console.log(`${i}x7=${i * 7}`)
 }
+
+let j = 1;
+while (j <= 10) {
+  let resultado = 7 * j;
+  console.log(`7 x ${j} = ${resultado}`);
+  j++;
+}
