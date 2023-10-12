@@ -1,6 +1,6 @@
 # Ejercicios de JavaScript objetos y OOP
 
-## Ejercicios-01
+## [Ejercicios-01](https://github.com/norbeydanilo/javascript-basico/blob/main/oop/ejercicios-01.js)
 
 1. **Haga un código** que:
     - Tenga un objeto `carro` con las siguientes propiedades:
@@ -12,7 +12,7 @@
     - "Hola! Mi marca es `marca`, soy modelo `modelo año` y mi color es `color`"
 3. **Imprima por consola** cada una de las propiedades y funciones.
 
-## Ejercicios-02
+## [Ejercicios-02](https://github.com/norbeydanilo/javascript-basico/blob/main/oop/ejercicios-02.js)
 
 ### Clase
 
@@ -33,7 +33,7 @@
 2. **Sobreescriba el método `saludar`** con el siguiente mensaje: "Hola! Soy un cuadrado. Mi color es `color` y mi radio es `radio`"
 3. **Cree una instancia** de la clase circulo e imprímala por consola.
 
-## Ejercicios-03
+## [Ejercicios-03](https://github.com/norbeydanilo/javascript-basico/blob/main/oop/ejercicios-03.js)
 
 1. **Haga un código** que realice una clase `Persona` la cual tenga un constructor con los atributos `nombre`, `apellido`, `edad` y `nacionalidad`, inicializarlos todos en `null`.
 2. Por medio de `setter` asignarle valor a los atributos y obtenerlos con `getter` e imprimirlos por consola.
