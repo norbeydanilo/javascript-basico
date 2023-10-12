@@ -29,10 +29,6 @@
     - Imprima los números del 10 al 1.
     - Imprima los números pares.
 
-## Ciclos-02
+2. **Realice un código** que sume los números del 1 al 5 e imprima el resultado.
 
-1. **Realice un código** que sume los números del 1 al 5 e imprima el resultado.
-
-## Ciclos-03
-
-1. **Haga un código con while** que imprima la tabla de multiplicar del 7.
+3. **Haga un código con while** que imprima la tabla de multiplicar del 7.
