@@ -23,8 +23,6 @@
 
 ## [Ejercicios-02](https://github.com/norbeydanilo/javascript-basico/blob/main/estructuras-control/ejercicios-02.js)
 
-## Ciclos-01
-
 1. **Haga un código** que:
     - Imprima los números del 10 al 1.
     - Imprima los números pares.
