@@ -20,6 +20,12 @@ miPersona.surname = "Florez"
 miPersona.age = 20
 miPersona.nacionality = "Colombiana"
 
+miPersona
+
+miPersona["age"] = 30
+
+miPersona
+
 console.log(miPersona.saludar())
 
 console.log(Persona.mensaje())
