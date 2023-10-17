@@ -1,4 +1,4 @@
-# Ejercicios de JavaScript sintaxis básica
+# Ejercicios de JavaScript - Sintaxis básica
 
 ## [Ejercicios-01](https://github.com/norbeydanilo/javascript-basico/blob/main/basico/ejercicios-01.js)
 

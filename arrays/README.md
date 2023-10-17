@@ -1,4 +1,4 @@
-# Ejercicios de JavaScript Arrays
+# Ejercicios de JavaScript - Arrays
 
 ## [Ejercicios-01](https://github.com/norbeydanilo/javascript-basico/blob/main/arrays/ejercicios-01.js)
 
@@ -9,7 +9,7 @@
     - Coco
     - Interstellar
 
-2. **Recorre el arreglo con un ciclo** e imprime en pantalla cada película con el siguiente mensaje: “Película #posicion+1: nombrePelicula”.
+2. **Recorre el arreglo con un ciclo** e imprime en pantalla cada película con el siguiente mensaje: "Película #posicion+1: nombrePelicula".
 
 ## [Ejercicios-02](https://github.com/norbeydanilo/javascript-basico/blob/main/arrays/ejercicios-02.js)
 

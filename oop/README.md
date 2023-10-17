@@ -1,4 +1,4 @@
-# Ejercicios de JavaScript objetos y OOP
+# Ejercicios de JavaScript - Objetos y OOP
 
 ## [Ejercicios-01](https://github.com/norbeydanilo/javascript-basico/blob/main/oop/ejercicios-01.js)
 
@@ -33,7 +33,7 @@
 2. **Sobreescriba el método `saludar`** con el siguiente mensaje: "Hola! Soy un cuadrado. Mi color es `color` y mi radio es `radio`"
 3. **Cree una instancia** de la clase circulo e imprímala por consola.
 
-Se puede ver la aplicación de este ejercicio en la carpeta: [figuras](https://github.com/norbeydanilo/javascript-basico/blob/main/oop/figuras)
+Se puede ver también la aplicación de este ejercicio en la carpeta: [figuras](https://github.com/norbeydanilo/javascript-basico/blob/main/oop/figuras)
 
 ## [Ejercicios-03](https://github.com/norbeydanilo/javascript-basico/blob/main/oop/ejercicios-03.js)
 

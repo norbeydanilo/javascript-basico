@@ -1,4 +1,4 @@
-# Ejercicios de JavaScript estructuras de control (selección e iteración)
+# Ejercicios de JavaScript - Estructuras de control (selección e iteración)
 
 ## [Ejercicios-01](https://github.com/norbeydanilo/javascript-basico/blob/main/estructuras-control/ejercicios-01.js)
 
